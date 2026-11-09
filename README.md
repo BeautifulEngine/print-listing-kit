@@ -4,6 +4,10 @@ Turn a finished 3D model into listings that get found and printed successfully: 
 
 **What you get:** Writes ready-to-paste listings for selling or sharing a 3D print model file on marketplaces such as Etsy, Printables, MakerWorld, Cults3D and Thangs - titles, descriptions, tags, print settings, assembly notes, license, price based on comparable models, a photo shot list and a download README - and checks titles and tags against each marketplace's limits with a script. Flags trademark and character risks and AI-disclosure rules.
 
+![Pages from a sample Print Listing Kit: at a glance and Etsy listing, printables, settings and pricing, photo list and files](docs/preview.png)
+
+**See the full sample:** [Sample-Hex-Stack-Planter-Listing-Kit.pdf](examples/Sample-Hex-Stack-Planter-Listing-Kit.pdf) (fictional names and figures)
+
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/print-listing-kit/issues/new)
 
 ## Install
@@ -36,6 +40,8 @@ mkdir -p ~/.claude/skills && cp -r print-listing-kit/print-listing-kit ~/.claude
 Then use `/print-listing-kit`.
 
 ## Usage
+
+![Animated demo: example requests typed into Claude, each followed by what the Print Listing Kit skill makes](docs/how-to-ask.gif)
 
 ```
 /print-listing-kit <model name> [marketplaces] [free | paid] [price]
