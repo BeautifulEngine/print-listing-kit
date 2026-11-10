@@ -6,7 +6,7 @@ Turn a finished 3D model into listings that get found and printed successfully: 
 
 ![Pages from a sample Print Listing Kit: at a glance and Etsy listing, printables, settings and pricing, photo list and files](docs/preview.png)
 
-**See the full sample:** [Sample-Hex-Stack-Planter-Listing-Kit.pdf](examples/Sample-Hex-Stack-Planter-Listing-Kit.pdf) (fictional names and figures)
+**See the full sample:** [Sample-Hex-Stack-Planter-Listing-Kit.pdf](examples/Sample-Hex-Stack-Planter-Listing-Kit.pdf) (a sample listing for a Beautiful Engine model)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/print-listing-kit/issues/new)
 
